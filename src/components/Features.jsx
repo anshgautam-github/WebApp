@@ -98,7 +98,7 @@ export const BentoCard = ({ src, title, description, isComingSoon }) => {
   );
 };
 
-const Feeatures = () => (
+const Features = () => (
   <section className="bg-black pb-52">
     <div className="container mx-auto px-3 md:px-10">
       <div className="px-5 py-32">
@@ -189,4 +189,4 @@ const Feeatures = () => (
   </section>
 );
 
-export default Feeatures;
+export default Features;
